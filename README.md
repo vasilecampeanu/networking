@@ -25,5 +25,13 @@ UMFT Project
 
 ![project-network-rooters-metrice](docs/project-network-rooters-metrice.png)
 
+---
+
 # Tree
 ![arbore-de-acoperire](docs/arbore-de-acoperire.png)
+
+---
+
+# Resulted network after permanent tags ar applied
+
+![project-network-resulted.png](docs/project-network-resulted.png)
