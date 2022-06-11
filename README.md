@@ -35,3 +35,7 @@ UMFT Project
 # Resulted network after permanent tags ar applied
 
 ![project-network-resulted.png](docs/project-network-resulted.png)
+
+---
+
+# IP calculation
