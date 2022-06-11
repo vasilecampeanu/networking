@@ -49,3 +49,7 @@ O sa calculez prima data ip-urile pentru 2 hosturi pe retea.
 ---
 
 ## Multiple hosts
+
+![docs/compute-rooter-ips-multihosts-01](docs/compute-rooter-ips-multihosts-01.jpg)
+
+![docs/compute-rooter-ips-multihosts-02](docs/compute-rooter-ips-multihosts-02.jpg)
