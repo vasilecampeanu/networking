@@ -39,3 +39,13 @@ UMFT Project
 ---
 
 # IP calculation
+O sa calculez prima data ip-urile pentru 2 hosturi pe retea.
+
+## 2 Hosts
+![docs/compute-rooter-ips-2hosts-01](docs/compute-rooter-ips-2hosts-01.jpg)
+
+![docs/compute-rooter-ips-2hosts-02](docs/compute-rooter-ips-2hosts-02.jpg)
+
+---
+
+## Multiple hosts
